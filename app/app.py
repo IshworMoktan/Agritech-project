@@ -8,6 +8,8 @@ from utils.fertilizer import fertilizer_dic
 import requests
 import config
 import pickle
+import sklearn
+
 import io
 import torch
 from torchvision import transforms
